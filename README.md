@@ -1,8 +1,8 @@
 # Olá! Sou Victor Claudiano 👋
 # Hello World! I'm Claudiano, Victor 👋
-<p>Estudante de Análise e Desenvolvimento de Sistemas💻</p>
-<p>Systems Analysis and Development Student💻</p>
-
+<p>Estudante de Análise e Desenvolvimento de Sistemas, cursando o 3 semestre💻</p>
+<p>Systems Analysis and Development student, studying the 3rd semester💻</p>
+<h1>technologies</h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="victor-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
@@ -13,10 +13,7 @@
   <img align="center" alt="victor-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
          
 </div>
-  
-    
-        
-      
+
           
           
           
@@ -24,5 +21,4 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/victorclaudiano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
