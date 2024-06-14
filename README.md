@@ -1,9 +1,14 @@
 # Olá! Sou Victor Claudiano 👋
-# Hello World! I'm Claudiano, Victor 👋
 <p>Estudante de Análise e Desenvolvimento de Sistemas, cursando o 3 semestre💻</p>
-<p>Systems Analysis and Development student, studying the 3rd semester💻</p>
-<h1>technologies</h1>
 
+<h2>Sobre mim!</h2>
+<p>📚 Atualmente estou aprendendo: Me aprofundando em Go</p>
+<p>🎯 Metas: Conseguir um estágio na área de desenvolvimento </p>
+<p>🎲 Curiosidade: Sou apaixonado por tecnologias novas!</p>
+
+
+
+<h1>technologies</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="victor-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
   <img align="center" alt="victor-node-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
