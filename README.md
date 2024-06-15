@@ -2,7 +2,7 @@
 <p>Estudante de Análise e Desenvolvimento de Sistemas, cursando o 3 semestre💻</p>
 
 <h2>Sobre mim!</h2>
-<p>📚 Atualmente estou aprendendo: Me aprofundando em Go</p>
+<p>📚 Atualmente: Me aprofundando em Go</p>
 <p>🎯 Metas: Conseguir um estágio na área de desenvolvimento </p>
 <p>🎲 Curiosidade: Sou apaixonado por tecnologias novas!</p>
 
