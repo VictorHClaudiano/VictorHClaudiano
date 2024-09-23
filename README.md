@@ -1,5 +1,5 @@
 # Olá! Sou Victor Claudiano 👋
-<p>Estudante de Análise e Desenvolvimento de Sistemas, cursando o 3 semestre💻</p>
+<p>Estudante de Análise e Desenvolvimento de Sistemas, cursando o 6 semestre💻</p>
 
 <h2>Sobre mim!</h2>
 <p>📚 Atualmente: Me aprofundando em Go</p>
