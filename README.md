@@ -2,7 +2,7 @@
 <p>Estudante de Análise e Desenvolvimento de Sistemas, cursando o 6 semestre💻</p>
 
 <h2>Sobre mim!</h2>
-<p>🎲 Curiosidade: Sou apaixonado por tecnologias novas!</p>
+<p>🎲 Considero-me uma pessoa criativa e com muita vontade de aprender, aprimorando técnicas que me ajudarão no dia a dia. No momento, quero me aprimorar na área e estou à procura de uma oportunidade para me desenvolver profissionalmente.</p>
 
 
 
