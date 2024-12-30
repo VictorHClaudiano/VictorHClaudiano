@@ -4,15 +4,15 @@
 <h2>Sobre mim!</h2>
 <p>🎲 Considero-me uma pessoa criativa e com muita vontade de aprender, aprimorando técnicas que me ajudarão no dia a dia. No momento, quero me aprimorar na área e estou à procura de uma oportunidade para me desenvolver profissionalmente.</p>
 
-<h2>
-Soft Skills
-▪ Boa comunicação verbal e escrita, incluindo capacidade de comunicação eficaz com clientes internos e externos;
+<h2>Soft Skills</h2>
+<p>▪ Boa comunicação verbal e escrita, incluindo capacidade de comunicação eficaz com clientes internos e externos;
 ▪ Apaixonado por tecnologia e resolver problemas de clientes;
 ▪ Possuo empatia e escuta ativa para se relacionar com o cliente;
 ▪ Organizado e capacidade de gerir muito bem o tempo e demandas;
 ▪ Criativo e flexível para contornar obstáculos;
 ▪ Criterioso com a qualidade das entregas;
-</h2>
+</p>
+
 
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
